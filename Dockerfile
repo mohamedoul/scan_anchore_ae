@@ -2,6 +2,6 @@
 
 
 FROM scratch
-ADD ae-04.01.00-SNAPSHOT.jar .
+ADD ae-04.01.00-SNAPSHOT.jar.original .
 
 
