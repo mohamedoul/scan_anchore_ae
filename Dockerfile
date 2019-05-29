@@ -5,6 +5,6 @@ FROM 8-jre-alpine-custom:latest
 
 
 
-COPY ae-04.01.00-SNAPSHOT.jar .
+COPY ae-04.01.00-SNAPSHOT.jar.jar .
 
 
