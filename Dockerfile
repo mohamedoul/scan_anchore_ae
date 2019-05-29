@@ -3,6 +3,6 @@
 
 FROM scratch
 ADD ae-04.01.00-SNAPSHOT.jar.original .
-ADD mobileConnect-common-04.01.00-SNAPSHOT .
+ADD mobileConnect-common-04.01.00-SNAPSHOT.jar .
 
 
